@@ -1,5 +1,5 @@
-# init repository
-rm -rf mytet
+# create repository
+rm -rf mytest
 mkdir mytest
 cd mytest
 git init

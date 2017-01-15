@@ -1,4 +1,4 @@
-# init repository
+# create repository
 rm -rf mytest
 mkdir mytest
 cd mytest
