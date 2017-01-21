@@ -20,3 +20,5 @@
 - [git-remote.sh](git-remote.sh): remote operations
 - [git-workflow.sh](git-workflow.sh): git workflow (master/develop/feature)
 
+## Misc
+- [git-amend.sh](git-amend.sh): alternative way to amend
